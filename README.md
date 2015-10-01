@@ -1,4 +1,5 @@
 # Car Lease Calculator
 
-Utility libraries for Avail Car Leasing's car lease calculator(http://avail.co.uk)
+Utility libraries for Avail Car Leasing's [car lease calculator](http://avail.co.uk/personal-car-leasing/)
+
 
